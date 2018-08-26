@@ -1,0 +1,21 @@
+#agrupar
+{
+	width: 450px;
+	margin: 80 px auto;
+text-align: center ;
+}
+#cabecera {
+
+border: 50px solid #e3f2fd ;
+padding: 40px;
+text-align: center 
+
+}
+#seccion {
+
+float: left;
+width: 460px;
+margin: 10px solid #d50000;
+background: #e8eaf6
+} 
+
